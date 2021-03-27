@@ -47,5 +47,7 @@ The additional analysis of the election shows that:
 - The county with the largest voter turnout was:
     - Denver
 
+Given this audit was a success and captures all the critical information needed to report on the results of a local election, this audit tool could be rolled out to other localities. There are a couple of items which would have to be considered/incorporated in order to accomplish this. First, the data source would need to 
+
 ### Complete Analysis Snapshot
 ![Election Results](/analysis/Election_Results.png "Election Results")
