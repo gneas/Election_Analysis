@@ -15,18 +15,23 @@ A Colorado Board of Elections employee had given me the following tasks to compl
 
 ## Summary
 The analysis of the election show that:
-- There were "369,711" votes cast in the election.
+- There were 369,711 votes cast in the election.
 - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
     - Raymon Anthony Doane
 - The candidate results were:
-    - Charles received 23.0%" of the vote and "85,213" number of votes.
-    - Candidate 2 received "x%" of the vote and "y" number of votes.
-    - Candidate 3 received "x%" of the vote and "y" number of votes.
+    - Charles received 23.0% of the vote and 85,213 number of votes.
+    - Diana received 73.8% of the vote and 272,892 number of votes.
+    - Raymon received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
-    - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
+    - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
+The Colorado Board of Elections requested some additional data for the election audit.
+
+1. The voter turnout broken out by county.
+2. Each county's votes as a percentage of the total votes cast.
+3. Determine the county with the largest voter turnout.
 
 ## Challenge Summary
