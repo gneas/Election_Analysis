@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election
+A Colorado Board of Elections employee had given me the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes. 
@@ -15,13 +15,13 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election show that:
-- There were "x" votes cast in the election.
+- There were "369,711" votes cast in the election.
 - The candidates were:
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
+    - Charles Casper Stockham
+    - Diana DeGette
+    - Raymon Anthony Doane
 - The candidate results were:
-    - Candidate 1 received "x%" of the vote and "y" number of votes.
+    - Charles received 23.0%" of the vote and "85,213" number of votes.
     - Candidate 2 received "x%" of the vote and "y" number of votes.
     - Candidate 3 received "x%" of the vote and "y" number of votes.
 - The winner of the election was:
