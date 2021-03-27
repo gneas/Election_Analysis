@@ -14,7 +14,7 @@ A Colorado Board of Elections employee had given me the following tasks to compl
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Summary
-The analysis of the election show that:
+The analysis of the election shows that:
 - There were 369,711 votes cast in the election.
 - The candidates were:
     - Charles Casper Stockham
@@ -35,3 +35,15 @@ The Colorado Board of Elections requested some additional data for the election 
 3. Determine the county with the largest voter turnout.
 
 ## Challenge Summary
+The additional analysis of the election shows that:
+- The counties involved in the election were:
+    - Jefferson County
+    - Denver County
+    - Arapahoe County
+- The total votes cast broken out by county was:
+    - Jefferson cast 38,855 votes which was 10.5% of the total votes.
+    - Denver cast 306,055 votes which was 82.8% of the total votes.
+    - Arapahoe cast 24,801 votes which was 6.7% of the total votes.
+- The county with the largest voter turnout was:
+    - Denver
+
